@@ -1,0 +1,11 @@
+C:\Users\brian\Desktop\University\COIS-3020H\Assignment2\Ropesv3\Ropesv3\bin\Debug\netcoreapp3.0\Ropesv3.exe
+C:\Users\brian\Desktop\University\COIS-3020H\Assignment2\Ropesv3\Ropesv3\bin\Debug\netcoreapp3.0\Ropesv3.deps.json
+C:\Users\brian\Desktop\University\COIS-3020H\Assignment2\Ropesv3\Ropesv3\bin\Debug\netcoreapp3.0\Ropesv3.runtimeconfig.json
+C:\Users\brian\Desktop\University\COIS-3020H\Assignment2\Ropesv3\Ropesv3\bin\Debug\netcoreapp3.0\Ropesv3.runtimeconfig.dev.json
+C:\Users\brian\Desktop\University\COIS-3020H\Assignment2\Ropesv3\Ropesv3\bin\Debug\netcoreapp3.0\Ropesv3.dll
+C:\Users\brian\Desktop\University\COIS-3020H\Assignment2\Ropesv3\Ropesv3\bin\Debug\netcoreapp3.0\Ropesv3.pdb
+C:\Users\brian\Desktop\University\COIS-3020H\Assignment2\Ropesv3\Ropesv3\obj\Debug\netcoreapp3.0\Ropesv3.csprojAssemblyReference.cache
+C:\Users\brian\Desktop\University\COIS-3020H\Assignment2\Ropesv3\Ropesv3\obj\Debug\netcoreapp3.0\Ropesv3.AssemblyInfoInputs.cache
+C:\Users\brian\Desktop\University\COIS-3020H\Assignment2\Ropesv3\Ropesv3\obj\Debug\netcoreapp3.0\Ropesv3.AssemblyInfo.cs
+C:\Users\brian\Desktop\University\COIS-3020H\Assignment2\Ropesv3\Ropesv3\obj\Debug\netcoreapp3.0\Ropesv3.dll
+C:\Users\brian\Desktop\University\COIS-3020H\Assignment2\Ropesv3\Ropesv3\obj\Debug\netcoreapp3.0\Ropesv3.pdb
